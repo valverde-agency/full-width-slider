@@ -61,3 +61,6 @@
 .active .right__main-page {
   display: block;
 }
+.carousel__main-page {
+  position: relative;
+}
